@@ -15,7 +15,7 @@ Untuk mengerjakan proyek tersebut, saya akan membuat klasifikasi gambar yang dil
 
 ## Hasil
 
-Setelah model dibuat, didapatkan hasil akurasi sebesar 89% (dapat dilihat di file ""). Akan tetapi, ternyata akurasi training dan validation berbeda jauh sehingga menunjukkan model mengalami overfit.
+Setelah model dibuat, didapatkan hasil akurasi sebesar 89% (dapat dilihat di file "Hasil akurasi.png"). Akan tetapi, ternyata akurasi training dan validation berbeda jauh sehingga menunjukkan model mengalami overfit (dapat dilihat di file "Grafik akurasi.png").
 
 ## Conclusion
 
