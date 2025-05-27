@@ -20,7 +20,8 @@ Setelah model dibuat, didapatkan hasil akurasi sebesar 92%.
 Adapun grafik akurasi dan loss yang dihasilkan sebagaimana berikut
 <br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Grafik%20Akurasi.png?raw=true)</br>
 
-##Catatan
+
+## Catatan
 
 Jika anda ingin menjalankan proyek ini, maka berikut caranya 
 
@@ -56,8 +57,3 @@ Buka jupyter-notebook dengan menjalankan perintah berikut.
 jupyter-notebook .
 
 ```
-
-
-## Conclusion
-
-Model yang dibuat berhasil mendapatkan akurasi sebesar 92%
