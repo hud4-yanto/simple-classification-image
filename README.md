@@ -16,12 +16,10 @@ Untuk mengerjakan proyek tersebut, saya akan membuat klasifikasi gambar yang dil
 ## Hasil
 
 Setelah model dibuat, didapatkan hasil akurasi sebesar 92%. 
-<br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Grafik%20Akurasi.png?raw=true) </br>
-Akan tetapi, ternyata akurasi training dan validation berbeda jauh sehingga menunjukkan model mengalami overfit. 
-<br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Grafik%20Akurasi.png?raw=true)</br>
+<center><br>![alt text]((https://github.com/hud4-yanto/simple-classification-image/blob/main/Hasil%20akurasi.png)?raw=true) </br></center>
+Adapun grafik akurasi yang dihasilkan sebagaimana berikut
+<center><br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Grafik%20Akurasi.png?raw=true)</br></center>
 
 ## Conclusion
 
-Berdasarkan model yang telah dibuat dapat disimpulkan bahwa:
-- Model berhasil mendapatkan akurasi sebesar 89%
-- Model mengalami overfit. hal ini dibuktikan dengan perbedaan akurasi training dan validation (selisih 10%)
+Model yang dibuat berhasil mendapatkan akurasi sebesar 92%
