@@ -1,6 +1,6 @@
 # Proyek Akhir: Klasifikasi Gambar
 
-## Intruksi proyek
+## Pendahuluan
 
 Proyek klasifikasi gambar ini digunakan untuk menyelesaikan kelas Dicoding Data Scientist tingkat menengah. dalam proyek ini kami dibebaskan untuk memilih topik atau kategori gambar yang ingin diklasifikasikan, serta platform atau dataset mana yang ingin dipakai sebagai sumber data.
 
