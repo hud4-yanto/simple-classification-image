@@ -16,7 +16,7 @@ Untuk mengerjakan proyek tersebut, saya akan membuat klasifikasi gambar yang dil
 ## Hasil
 
 Setelah model dibuat, didapatkan hasil akurasi sebesar 92%. 
-<br>![alt text]((https://github.com/hud4-yanto/simple-classification-image/blob/main/Hasil%20akurasi.png)?raw=true) </br>
+<br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Hasil%20akurasi.png)?raw=true) </br>
 Adapun grafik akurasi yang dihasilkan sebagaimana berikut
 <br>![alt text](https://github.com/hud4-yanto/simple-classification-image/blob/main/Grafik%20Akurasi.png?raw=true)</br>
 
